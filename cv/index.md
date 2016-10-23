@@ -6,21 +6,19 @@ layout: default
 # Education
 
 ## PhD Student
-Computer Science (with a focus on Privacy and Security)
-
-_Georgia Institue of Technology_
-
-Fall 2016 - present
+- Computer Science (with a focus on Privacy and Security)
+- _Georgia Institue of Technology_
+- Fall 2016 - present
 
 ## Master of Science
-Computer Science (Human Computer Interaction)
-_Georgia Institue of Technology_
-August 2014 - December 2015
+- Computer Science (Human Computer Interaction)
+- _Georgia Institue of Technology_
+- August 2014 - December 2015
 
 ## Bachelor of Fine Arts
-Interactive Design and Game Development
-_Savannah College of Art and Design_
-Savannah, Georgia 2007 - 2010, Cum Laude
+- Interactive Design and Game Development
+- _Savannah College of Art and Design_
+- Savannah, Georgia 2007 - 2010, Cum Laude
 
 
 # Recent Work and Research
