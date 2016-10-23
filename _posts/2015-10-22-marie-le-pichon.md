@@ -1,0 +1,14 @@
+I got a Myo today.
+![myo](/assets/myo.jpg)
+
+The Gestural Interface (followed by programming) was by far the most influential discovery I made during my undergraduate studies. I am among the many who believe that the technology we develop should seamlessly augment our world, not take us out of it.
+
+Obviously, Computer Vision appealed to me greatly. I was as excited about the Kinect as any. Infrared was supposed to open up a whole new world. And it did... sort of. Until we all turned around and looked at each other and admitted... IR cameras don't solve object recognition.
+
+In addition, CV interfaces are proving time and time again how ineffective CV is at sensing everything from fine motor control actions, like controlling a pointer (yes I've seen the leap motion) to recognizing generic gestures. To clarify, I do believe that CV has effectively solved some of these problems. Unfortunately, even with improved algorithms, the input space remains unacceptably limited. The hand must perform the action in a constrained space; a space which is completely invisible to the user and corresponds to wherever the camera happens to be pointing... And let's not even get started on "gorilla arm" (arm fatigue).
+
+It is time we let go of the "come as you are" paradigm. Users are absolutely willing to not come as they are. If anyone thinks users will not slip on a piece of fabric (maybe in a more distant future than we'd like ) or even a slim watch (see: not so distant future) to allow them to seamlessly interact with the devices they are surrounded with... I believe they are seriously underestimating people's addiction to convenience.
+
+I wish the Myo were at a later stage in development (the blessing and the curse of being in a field like Physical Computing) but I would argue that this type of sensor (and wearable computing in general as a field) is the future of gestural interfaces. I believe this technology offers much room for improvement. Like any new technology, the sensors will benefit from further development and research and should quickly become more reliable. Particularly with the advent of home automation so close at hand, I foresee that a combination of voice recognition and wearable computing will be our primary means of controlling the many devices in our lives.
+
+As a final note, I'd like to point out that for Computer Vision to truly allow us to seamlessly interact with and control our world would require us to install a seemingly unfeasible amount of cameras in our lives. And I would hope that even if it were feasible, we still have enough respect for our privacy (remember that thing we used to call freedom and liberty?) to reject the idea of a world covered in cameras.
