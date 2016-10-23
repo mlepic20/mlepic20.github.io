@@ -31,7 +31,7 @@ This course guides students in acquiring the skills to effectively design privac
 
 ## Privacy by Design Workshop
 - _Atlanta, GA - May 2015_
-- Consultant to Computing Community Consortium for privacy conference. Suggested and recruited participants. Moderated panel called "Observations from Designers who have not specialized in Privacy". Helped draft [report] (http://cra.org/ccc/events/pbd-privacy-enabling-design/)
+- Consultant to Computing Community Consortium for privacy conference. Suggested and recruited participants. Moderated panel called "Observations from Designers who have not specialized in Privacy". Helped draft [report](http://cra.org/ccc/events/pbd-privacy-enabling-design/)
 
 ## BMW
 - _Atlanta, GA - January - April 2015_
