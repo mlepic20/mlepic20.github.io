@@ -3,7 +3,7 @@ title: Marie Le Pichon's CV
 layout: default
 ---
 
-# EDUCATION
+# Education
 
 ## PhD Student
 Computer Science (with a focus on Privacy and Security)
@@ -21,7 +21,7 @@ Savannah College of Art and Design
 Savannah, Georgia 2007 - 2010, Cum Laude
 
 
-# RECENT WORK AND RESEARCH
+# Recent Work and Research
 
 ## Research Scientist
 _Atlanta, GA - January 2016 - present_
@@ -45,7 +45,7 @@ _Atlanta, GA - January - April 2015_
 Managed development of a Google Glass prototype to improve productivity in BMW assembly plant.
 
 
-# EXPERIENCE
+# Experience
 
 ## Consultant
 _Atlanta, GA - September 2015 - February 2016_
