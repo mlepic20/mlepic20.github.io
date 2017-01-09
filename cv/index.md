@@ -42,7 +42,7 @@ This course guides students in acquiring the skills to effectively design privac
 
 ## Consultant
 - _Atlanta, GA - September 2015 - February 2016_
-- Consultant to Alston & Bird LLP for Broadband for America Project. Recruited for my design and advertising background and experience in data privacy to help create diagrams for white paper.
+- Consultant to Alston & Bird LLP for Broadband for America Project. Recruited for my experience in data privacy and graphic design to create models of data flows under different security protections.
 
 ## Advertising/Marketing Specialist
 - _French International School of Philadelphia, Philadelphia, PA - September 2012 - August 2015_
